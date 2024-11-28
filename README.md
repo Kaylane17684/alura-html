@@ -1,2 +1,10 @@
-# alura-html
-aplicações com html e css
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+
+
+
